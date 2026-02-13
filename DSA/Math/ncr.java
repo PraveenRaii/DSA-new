@@ -1,4 +1,4 @@
-package pattern;
+package Math;
 import java.util.Scanner;
 
 public class ncr {
