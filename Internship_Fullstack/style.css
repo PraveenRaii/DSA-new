@@ -1,0 +1,44 @@
+/* section{
+    color: #b81d1d;
+    font-size: 16px;
+} */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 18px;
+  
+    background-color: red;
+    border: 2px dotted green;
+} */
+
+
+ /* call classes to .box */
+.box1{
+    background-color: red;
+    border: 2px dotted rgb(14, 3, 3);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 50%;
+    
+}
+.box2{
+    background-color: rgb(167, 167, 179);
+    border: 2px dashed rgb(218, 25, 131);
+   border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+}
+.box3{
+    background-color: yellow;
+    border: 2px solid rgb(43, 13, 165);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+}
