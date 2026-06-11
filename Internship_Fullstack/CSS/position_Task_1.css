@@ -1,0 +1,19 @@
+section>div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+  display: inline-block;
+   background: lightpink;
+}
+#b-1{
+      top: 201px;
+    left: 201px;
+    position: absolute;
+    background: blueviolet;
+}
+#b-2{
+      top: 401px;
+    left: 401px;
+    position: absolute;
+    background: rgb(11, 175, 96);
+}

@@ -1,0 +1,39 @@
+section{
+    height: 602px;
+    width: 602px;
+    border: 2px solid black;
+}
+
+section>div{
+    height: 200px;
+    width: 200px;
+   
+}
+#b-1{
+    background-color: #5b0202;
+}
+#b-2{
+      right: 230px;
+    top: 10px;
+    position: absolute;
+    background: blueviolet;
+}
+#b-3{
+    position: absolute;
+      top: 210px;
+    left: 210px;
+    background: rgb(11, 175, 96);
+}
+#b-4{
+    position: absolute;
+     top: 410px;
+    right: 230px;
+    background: rgb(11, 175, 96);
+}
+
+#b-5{
+    position: absolute;
+     top: 410px;
+    left: 10px;
+    background: rgb(11, 175, 96);
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 10px 20px;
+    align-items: center;
+}
+h1{
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 20px;
+}
+button{
+    background-color: transparent;
+    border: 2px solid royalblue;
+    background-color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+    align-items: center;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+}
+

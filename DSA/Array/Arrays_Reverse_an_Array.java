@@ -24,6 +24,6 @@
               System.out.println(result[i]+" ");
          }
 
-
+         sc.nextInt();
     }
 }

@@ -1,0 +1,25 @@
+nav{
+    height: 100px;
+    width: 99vw;
+    background-color: aqua;
+    border: 2px solid black;
+    font-size: 40px;
+    align-items: center;
+     display: flex;
+    justify-content: space-between;
+}
+nav a{
+    font-size: 40px;
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+@media screen and (max-width:700px){
+    nav{
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+    }
+}
