@@ -51,3 +51,13 @@ table{
 td{
     padding: 8px;
 }
+
+#countryCode{
+    padding: 5px;
+    width: 150px;
+}
+
+#mobile{
+    padding: 5px;
+    width: 180px;
+}
